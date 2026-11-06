@@ -1,0 +1,9 @@
+# abdess.github.io
+
+> The GitHub Pages sites of the Abdess account. Each project keeps its own pages under its own path.
+
+## Projects
+
+- [RetroBIOS](https://abdess.github.io/retrobios/): BIOS and firmware files for emulators, checked against each emulator's source code, with an installer that puts only what a card's games need in place. Its guide for agents: [llms.txt](https://abdess.github.io/retrobios/llms.txt)
+- [Open Formation Civique](https://abdess.github.io/open-formation-civique/): fiches thématiques et quiz gratuits pour la formation civique
+- [i18nkit](https://abdess.github.io/i18nkit/)

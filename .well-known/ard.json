@@ -1,0 +1,45 @@
+{
+ "entries": [
+  {
+   "identifier": "urn:air:abdess.github.io:retrobios:guide",
+   "displayName": "RetroBIOS guide for agents",
+   "type": "text/markdown",
+   "url": "https://abdess.github.io/retrobios/llms.txt",
+   "description": "The pages and datasets of RetroBIOS: BIOS and firmware files for emulators, checked against each emulator's source code.",
+   "representativeQueries": [
+    "install the minimum BIOS files for the games on my R36S running dArkOS",
+    "which BIOS files does mGBA need",
+    "where do PlayStation BIOS files go on Batocera",
+    "how do I install BIOS files for RetroArch"
+   ],
+   "tags": [
+    "bios",
+    "firmware",
+    "emulation",
+    "retrogaming"
+   ]
+  },
+  {
+   "identifier": "urn:air:abdess.github.io:retrobios:api",
+   "displayName": "RetroBIOS JSON API",
+   "type": "application/json",
+   "url": "https://abdess.github.io/retrobios/api/v1/index.json",
+   "description": "Versioned JSON datasets: emulator profiles, platforms, systems, core names and a hash lookup.",
+   "representativeQueries": [
+    "what file has the MD5 490f666e1afb15b7362b406ed1cea246",
+    "which files does the beetle_psx core read",
+    "list the systems Batocera supports"
+   ],
+   "capabilities": [
+    "HashLookup",
+    "EmulatorFiles",
+    "PlatformFiles"
+   ],
+   "tags": [
+    "api",
+    "json",
+    "bios"
+   ]
+  }
+ ]
+}
