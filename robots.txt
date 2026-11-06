@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdess.github.io/retrobios/sitemap-index.xml
+Sitemap: https://abdess.github.io/open-formation-civique/sitemap-index.xml
